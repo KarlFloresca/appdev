@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Scroll_Text_Floresca_2B</string>
+    <string name="article_title">Everything you need to know about augmented reality</string>
+    <string name="article_subtitle">By Kim Wacker</string>
+    <string name="article_text"><b>What is augmented reality?</b>\n\n
+Simply put, augmented reality (AR) is an interactive experience that uses computer-generated content to enhance the real world. Augmented reality uses both software and hardware (such as AR glasses) to superimpose digital content onto real-life environments and objects.
+
+This technology enriches the user experience and turns their immediate surroundings into an interactive learning environment — which can be especially valuable for education and training.
+
+In this blog, we’ll discuss how augmented reality works, the different types of AR, how augmented reality differs from virtual reality, and how AR will affect the future of video creation.\n\n
+
+<b><i>How does augmented reality work?</i></b>\n\n
+Here’s an overview of how the augmented reality process works:
+
+1. An AR-enabled device with a camera (e.g. smart glasses, a tablet, or a smartphone) dissects a video feed to identify a physical object or the environment of a user
+2. A 3D digital replica of the object in the cloud, aka a “digital twin”, connects the real environment with the virtual environment
+3. The augmented reality device downloads information about the object from the cloud and superimposes digital information over it. An example might be a GPS tracker or a barometric sensor that detects atmospheric pressure — creating a part-real, part-digital 3D interface
+4. Lastly, thanks to real-time data, the user can interact with the object or environment by sending commands to the cloud via touchscreen, voice, or gestures\n\n
+
+<b><i>Types of augmented reality</i></b>\n\n
+There are several different types of augmented reality, many of which can be consumed from a cell phone or web environment (Web AR). AR is classified by the way it’s initiated and how the experience is tracked. Some of the diverse types of augmented reality include:
+
+- Marker-based: augmented reality for QR codes, logos, or product packaging
+- Image tracking: augmented reality for images
+- AR with GPS or Geo Positioned AR: location-based augmented reality
+- World tracking or SLAM (Simultaneous Localization and Mapping): augmented reality on surfaces
+- Spatial tracking: augmented reality on spaces
+- Object tracking: augmented reality on objects
+- Face tracking: augmented reality with face filters
+- Body tracking: augmented reality on body parts
+- World mapping: augmented reality in open spaces \n\n
+Newer to the scene are augmented reality glasses. These AR smart glasses allow users to interact with virtual and real worlds in real time through the use of advanced imaging and sensor technologies. When these components work together, they create the visual effect of the items being added to the real world.
+
+Apple recently announced its entrance into the AR market with its goggles, Vision Pro. The experience will allow you to use a variety of apps controlled by your hands, voice and eyes. These impressive goggles will be priced at $3 499 and will be available to buy next year.\n\n
+
+<b><i>In closing</i></b>\n\n
+AR’s ability to transport a viewer into a different world with visual aids may prove very valuable in educational films, healthcare, the world of entertainment, and many other industries.
+
+While augmented reality still remains somewhat of a novelty, it can certainly help create hype around a brand. AR video is somewhat of an unexplored media format, and its overall capability is yet to be uncovered. But, for those organizations that successfully employ AR technology, it will show that they are truly a frontrunner in innovation.\n\n
+
+<b>Reference:</b>\n
+https://artlist.io/blog/augmented-reality/?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=19771364351&amp;utm_content=147764669258&amp;utm_term=&amp;keyword=&amp;ad=650219784385&amp;matchtype=&amp;device=c&amp;gad_source=1&amp;gclid=CjwKCAjw0t63BhAUEiwA5xP54XLieXip1iXksCI6Gd3mzuJq9iZcyvEcOydLUOuFzZmC6BoH_rlhxBoCnaAQAvD_BwE
+    </string>
+</resources>
